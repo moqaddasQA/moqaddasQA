@@ -292,11 +292,8 @@ graph TD
 
 <br/>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moqaddasQA&theme=tokyonight)
-
-<br/>
-
 <table><tr>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moqaddasQA&theme=tokyonight" alt="Profile Details"/></td>
 <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moqaddasQA&theme=tokyonight" alt="Stats"/></td>
 <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moqaddasQA&theme=tokyonight" alt="Top Languages by Repo"/></td>
 <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moqaddasQA&theme=tokyonight" alt="Top Languages by Commit"/></td>
