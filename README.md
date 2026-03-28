@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/65993700?v=4" width="110" height="110" />
-
-<br/>
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=58B9FF&center=true&vCenter=true&width=760&lines=Hello%2C+I%27m+Moqaddas+Rahim;QA+Automation+Engineer+%7C+SDET;Selenium+%7C+Java+%7C+BDD+%7C+CI%2FCD;HIPAA+%26+PCI+DSS+Compliance+Expert;150%2B+Critical+Bugs+Prevented;Building+Frameworks+That+Ship+Quality)
 
 <br/>
@@ -282,7 +278,7 @@ graph TD
 | **AI-Powered Test Generation** | ![Advanced](https://img.shields.io/badge/Advanced-90%25-22c55e?style=flat-square&labelColor=1e293b) |
 | **CI/CD Pipelines** *(Jenkins · GitHub Actions)* | ![Proficient](https://img.shields.io/badge/Proficient-70%25-f59e0b?style=flat-square&labelColor=1e293b) |
 | **Containerization** *(Docker)* | ![Intermediate](https://img.shields.io/badge/Intermediate-60%25-f97316?style=flat-square&labelColor=1e293b) |
-| **BDD Methodology** *(Cucumber · TestNG)* | ![Growing](https://img.shields.io/badge/Growing-50%25-64748b?style=flat-square&labelColor=1e293b) |
+| **BDD Methodology** *(Cucumber · TestNG)* | ![Expert](https://img.shields.io/badge/Expert-95%25-3b82f6?style=flat-square&labelColor=1e293b) |
 
 </div>
 
