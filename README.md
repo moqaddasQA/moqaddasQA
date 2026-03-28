@@ -147,17 +147,17 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 <table><tr>
 <td align="center" width="33%">
   <a href="https://github.com/moqaddasQA/banking-regression-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=banking-regression-framework&theme=github_dark&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="Banking Regression Framework"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=banking-regression-framework&theme=github_dark_dimmed&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="Banking Regression Framework"/>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/moqaddasQA/openmrs-healthcare-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=openmrs-healthcare-framework&theme=github_dark&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="OpenMRS Healthcare Framework"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=openmrs-healthcare-framework&theme=github_dark_dimmed&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="OpenMRS Healthcare Framework"/>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/moqaddasQA/HandsOff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=HandsOff&theme=github_dark&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="HandsOff Privacy App"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=HandsOff&theme=github_dark_dimmed&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="HandsOff Privacy App"/>
   </a>
 </td>
 </tr></table>
@@ -292,20 +292,20 @@ graph TD
 
 <br/>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moqaddasQA&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moqaddasQA&theme=github_dark_dimmed)
 
 <br/>
 
 <table><tr>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moqaddasQA&theme=github_dark" alt="Stats"/></td>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moqaddasQA&theme=github_dark" alt="Top Languages by Repo"/></td>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moqaddasQA&theme=github_dark" alt="Top Languages by Commit"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moqaddasQA&theme=github_dark_dimmed" alt="Stats"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moqaddasQA&theme=github_dark_dimmed" alt="Top Languages by Repo"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moqaddasQA&theme=github_dark_dimmed" alt="Top Languages by Commit"/></td>
 </tr></table>
 
 <br/>
 
 <table><tr>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moqaddasQA&theme=github_dark&utcOffset=-8" alt="Productive Time"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moqaddasQA&theme=github_dark_dimmed&utcOffset=-8" alt="Productive Time"/></td>
 <td align="center"><img src="https://streak-stats.demolab.com/?user=moqaddasQA&hide_border=true&background=0F172A&stroke=334155&border=334155&ring=3B82F6&fire=22C55E&currStreakLabel=58B9FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak"/></td>
 </tr></table>
 
