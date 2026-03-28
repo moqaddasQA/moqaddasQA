@@ -258,32 +258,19 @@ graph TD
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=moqaddasQA&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=moqaddasQA&title_color=00D9FF&text_color=FFFFFF&icon_color=00FFA3&bg_color=0D1117&hide_border=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/></td>
-<td><img src="https://streak-stats.demolab.com/?user=moqaddasQA&hide_border=true&background=0D1117&border=00D9FF30&stroke=00D9FF&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/></td>
-</tr></table>
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moqaddasQA&layout=compact&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=moqaddasQA&hide_border=true&background=0D1117&border=00D9FF30&stroke=00D9FF&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)
 
 <br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moqaddasQA&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D9FF&line=00FFA3&point=238636)
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/moqaddasQA?style=for-the-badge&color=00D9FF&logo=github&logoColor=white&label=GitHub+Followers) ![Views](https://komarev.com/ghpvc/?username=moqaddasQA&style=for-the-badge&color=00FFA3&label=Profile+Views)
 
 </div>
 
