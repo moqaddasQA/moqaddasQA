@@ -149,40 +149,38 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/─────────────────-f59e0b?style=flat-square"/>
-<br/>
-<a href="https://github.com/moqaddasQA/banking-regression-framework">
-<img src="https://img.shields.io/badge/🏦 Banking%20Regression%20Framework-f59e0b?style=for-the-badge&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f59e0b?style=flat-square&logoColor=white" width="100%"/>
 <br/><br/>
-Enterprise Java regression suite · PCI DSS compliant · 71% automated coverage
+<img src="https://skillicons.dev/icons?i=java,selenium,jenkins,maven&perline=4"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-f97316?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+<a href="https://github.com/moqaddasQA/banking-regression-framework"><img src="https://img.shields.io/badge/Banking%20Regression%20Framework-1e293b?style=for-the-badge&logoColor=f59e0b"/></a>
+<br/><br/>
+Enterprise Java regression suite for banking · PCI DSS compliant · 71% automated coverage
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Selenium-1e293b?style=flat-square&logo=selenium&logoColor=43B02A"/>
+<img src="https://img.shields.io/badge/TestNG-1e293b?style=flat-square&logoColor=f97316"/>
+<img src="https://img.shields.io/badge/REST%20Assured-1e293b?style=flat-square&logoColor=22c55e"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/PCI%20DSS-Compliant-22c55e?style=flat-square&labelColor=166534"/>
-<img src="https://img.shields.io/badge/Coverage-71%25-3b82f6?style=flat-square&labelColor=1e3a8a"/>
+<img src="https://img.shields.io/badge/Coverage-71%25-f59e0b?style=flat-square&labelColor=78350f"/>
 <br/><br/>
 </td>
 
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/─────────────────-22c55e?style=flat-square"/>
-<br/>
-<a href="https://github.com/moqaddasQA/openmrs-healthcare-framework">
-<img src="https://img.shields.io/badge/🏥 OpenMRS%20Healthcare%20Framework-22c55e?style=for-the-badge&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-22c55e?style=flat-square&logoColor=white" width="100%"/>
 <br/><br/>
-Hybrid automation framework · HIPAA-grade · 50K+ daily HL7 transactions validated
+<img src="https://skillicons.dev/icons?i=java,selenium,docker,mysql&perline=4"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
+<a href="https://github.com/moqaddasQA/openmrs-healthcare-framework"><img src="https://img.shields.io/badge/OpenMRS%20Healthcare%20Framework-1e293b?style=for-the-badge&logoColor=22c55e"/></a>
+<br/><br/>
+Hybrid automation · HIPAA-grade · 50K+ daily HL7 transactions validated
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Cucumber-1e293b?style=flat-square&logo=cucumber&logoColor=23D96C"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/HIPAA-Compliant-22c55e?style=flat-square&labelColor=166534"/>
 <img src="https://img.shields.io/badge/HL7-50K%2B%20Daily-06b6d4?style=flat-square&labelColor=164e63"/>
@@ -191,18 +189,18 @@ Hybrid automation framework · HIPAA-grade · 50K+ daily HL7 transactions valida
 
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/─────────────────-a855f7?style=flat-square"/>
-<br/>
-<a href="https://github.com/moqaddasQA/HandsOff">
-<img src="https://img.shields.io/badge/🔒 HandsOff-a855f7?style=for-the-badge&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-a855f7?style=flat-square&logoColor=white" width="100%"/>
 <br/><br/>
-Universal Android privacy guardian · Blocks DNS trackers · Monitors mic/camera · No root
+<img src="https://skillicons.dev/icons?i=kotlin,android&perline=4"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/DNS%20Blocker-f97316?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/No%20Root-22c55e?style=flat-square&logoColor=white"/>
+<a href="https://github.com/moqaddasQA/HandsOff"><img src="https://img.shields.io/badge/HandsOff%20Privacy%20Guardian-1e293b?style=for-the-badge&logoColor=a855f7"/></a>
+<br/><br/>
+Universal Android privacy app · Blocks DNS trackers · Monitors mic/camera · No root required
+<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Android-1e293b?style=flat-square&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Shizuku-1e293b?style=flat-square&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/VPN%20DNS-1e293b?style=flat-square&logoColor=06b6d4"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Privacy-Guardian-a855f7?style=flat-square&labelColor=581c87"/>
 <img src="https://img.shields.io/badge/Root-Not%20Required-22c55e?style=flat-square&labelColor=166534"/>
