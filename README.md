@@ -144,23 +144,37 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 <div align="center">
 
-<table><tr>
+<table>
+<tr>
 <td align="center" width="33%">
-  <a href="https://github.com/moqaddasQA/banking-regression-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=banking-regression-framework&theme=tokyonight&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="Banking Regression Framework"/>
-  </a>
+<br/>
+<a href="https://github.com/moqaddasQA/banking-regression-framework"><b>🏦 Banking Regression Framework</b></a>
+<br/><br/>
+Enterprise Java regression suite for banking applications · PCI DSS compliant
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Selenium-1e293b?style=flat-square&logo=selenium&logoColor=43B02A"/> <img src="https://img.shields.io/badge/TestNG-1e293b?style=flat-square&logoColor=F26822"/> <img src="https://img.shields.io/badge/Jenkins-1e293b?style=flat-square&logo=jenkins&logoColor=D24939"/>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/moqaddasQA/openmrs-healthcare-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=openmrs-healthcare-framework&theme=tokyonight&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="OpenMRS Healthcare Framework"/>
-  </a>
+<br/>
+<a href="https://github.com/moqaddasQA/openmrs-healthcare-framework"><b>🏥 OpenMRS Healthcare Framework</b></a>
+<br/><br/>
+Hybrid automation framework for OpenMRS · HIPAA-grade · Dockerized test env
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Selenium-1e293b?style=flat-square&logo=selenium&logoColor=43B02A"/> <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/moqaddasQA/HandsOff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=HandsOff&theme=tokyonight&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="HandsOff Privacy App"/>
-  </a>
+<br/>
+<a href="https://github.com/moqaddasQA/HandsOff"><b>🔒 HandsOff</b></a>
+<br/><br/>
+Universal Android privacy guardian · Blocks DNS trackers · Monitors mic/camera · No root
+<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/Android-1e293b?style=flat-square&logo=android&logoColor=3DDC84"/> <img src="https://img.shields.io/badge/Privacy-22c55e?style=flat-square&logoColor=white"/>
+<br/><br/>
 </td>
-</tr></table>
+</tr>
+</table>
 
 </div>
 
