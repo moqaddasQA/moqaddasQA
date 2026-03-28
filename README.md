@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://avatars.githubusercontent.com/u/65993700?v=4" width="110" height="110" />
+
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=58B9FF&center=true&vCenter=true&width=760&lines=Hello%2C+I%27m+Moqaddas+Rahim;QA+Automation+Engineer+%7C+SDET;Selenium+%7C+Java+%7C+BDD+%7C+CI%2FCD;HIPAA+%26+PCI+DSS+Compliance+Expert;150%2B+Critical+Bugs+Prevented;Building+Frameworks+That+Ship+Quality)
 
 <br/>
@@ -16,7 +20,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## About Me
 
@@ -32,7 +36,7 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 | 👥 **Team multiplier** | Mentored 5+ engineers, led QA across 3+ concurrent Scrum teams |
 | 📚 **Always leveling up** | B.S. Information Technology in progress (LA Pierce College, 2026) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Impact at a Glance
 
@@ -44,7 +48,7 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Professional Journey
 
@@ -96,7 +100,7 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Technical Arsenal
 
@@ -121,7 +125,7 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Core Competencies
 
@@ -138,7 +142,33 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
+
+## Featured Projects
+
+<div align="center">
+
+<table><tr>
+<td align="center" width="33%">
+  <a href="https://github.com/moqaddasQA/banking-regression-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=banking-regression-framework&theme=github_dark&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="Banking Regression Framework"/>
+  </a>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/moqaddasQA/openmrs-healthcare-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=openmrs-healthcare-framework&theme=github_dark&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="OpenMRS Healthcare Framework"/>
+  </a>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/moqaddasQA/HandsOff">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moqaddasQA&repo=HandsOff&theme=github_dark&hide_border=true&bg_color=1E293B&title_color=58B9FF&icon_color=22C55E&text_color=94A3B8" alt="HandsOff Privacy App"/>
+  </a>
+</td>
+</tr></table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Automation Framework Architecture
 
@@ -221,7 +251,7 @@ graph TD
   end
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Education & Certifications
 
@@ -240,7 +270,7 @@ graph TD
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Technical Roadmap
 
@@ -256,11 +286,23 @@ graph TD
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## GitHub Analytics
 
 <div align="center">
+
+### Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/dist/github-snake-dark.svg)
+
+<br/>
+
+### 3D Contribution Calendar
+
+![3D Contribution Calendar](https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<br/>
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moqaddasQA&theme=github_dark)
 
@@ -286,7 +328,7 @@ graph TD
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Compliance Architecture
 
@@ -304,7 +346,7 @@ pie title Security Testing Focus
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## Let's Connect
 
