@@ -288,15 +288,7 @@ graph TD
 
 <div align="center">
 
-### Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/dist/github-snake-dark.svg)
-
-<br/>
-
-### 3D Contribution Calendar
-
-![3D Contribution Calendar](https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
 
@@ -312,11 +304,14 @@ graph TD
 
 <br/>
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moqaddasQA&theme=github_dark&utcOffset=-8)
+<table><tr>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moqaddasQA&theme=github_dark&utcOffset=-8" alt="Productive Time"/></td>
+<td align="center"><img src="https://streak-stats.demolab.com/?user=moqaddasQA&hide_border=true&background=0F172A&stroke=334155&border=334155&ring=3B82F6&fire=22C55E&currStreakLabel=58B9FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak"/></td>
+</tr></table>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=moqaddasQA&hide_border=true&background=0F172A&stroke=334155&border=334155&ring=3B82F6&fire=22C55E&currStreakLabel=58B9FF&sideLabels=94A3B8&dates=94A3B8)
+![3D Contribution Calendar](https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
 
