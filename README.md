@@ -67,9 +67,21 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moqaddasQA&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=f59e0b&text_color=e2e8f0&icon_color=22C55E&rank_icon=github" alt="GitHub Stats" width="48%" />
+[![Followers](https://img.shields.io/github/followers/moqaddasQA?style=for-the-badge&logo=github&label=Followers&color=3b82f6&labelColor=0f172a&logoColor=3b82f6)](https://github.com/moqaddasQA?tab=followers)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqaddasQA&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=f59e0b&text_color=e2e8f0&langs_count=8" alt="Top Languages" width="48%" />
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FmoqaddasQA&query=%24.public_repos&style=for-the-badge&logo=github&label=Repositories&color=22c55e&labelColor=0f172a&logoColor=22c55e)](https://github.com/moqaddasQA?tab=repositories)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/moqaddasQA?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars+Earned&color=f59e0b&labelColor=0f172a&logoColor=f59e0b)](https://github.com/moqaddasQA)
+
+<br/>
+
+[![Bugs](https://img.shields.io/badge/150%2B%20Critical%20Bugs-Prevented-ef4444?style=for-the-badge&logo=bugsnag&labelColor=0f172a)](https://github.com/moqaddasQA)
+&nbsp;
+[![Speed](https://img.shields.io/badge/37.5%25%20Faster-Test%20Execution-f97316?style=for-the-badge&logo=speedtest&labelColor=0f172a)](https://github.com/moqaddasQA)
+&nbsp;
+[![Savings](https://img.shields.io/badge/%2415K%2B%2Fyear-Cost%20Savings-22c55e?style=for-the-badge&logo=cashapp&labelColor=0f172a)](https://github.com/moqaddasQA)
+&nbsp;
+[![Compliance](https://img.shields.io/badge/HIPAA%20%7C%20PCI%20DSS-Compliance%20Expert-a855f7?style=for-the-badge&logo=checkmarx&labelColor=0f172a)](https://github.com/moqaddasQA)
 
 </div>
 
