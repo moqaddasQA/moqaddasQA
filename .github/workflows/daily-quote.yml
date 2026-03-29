@@ -1,0 +1,75 @@
+name: Daily QA Quote
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 6:00 AM UTC every day
+  workflow_dispatch:
+
+jobs:
+  rotate-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Rotate quote
+        run: |
+          python3 - <<'PYEOF'
+          import datetime, re
+
+          QUOTES = [
+              '"Testing leads to failure, and failure leads to understanding." — Burt Rutan',
+              '"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten." — Karl Wiegers',
+              '"If debugging is the process of removing bugs, then programming must be the process of putting them in." — Edsger W. Dijkstra',
+              '"No amount of testing can prove a software right; a single test can prove a software wrong." — Amir Ghahrai',
+              '"Quality is not an act, it is a habit." — Aristotle',
+              '"Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable." — James Bach',
+              '"A good test is one that makes you think." — Michael Bolton',
+              '"Beware of bugs in the above code; I have only proved it correct, not tried it." — Donald Knuth',
+              '"The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do." — Andrew Singer',
+              '"Testing can show the presence of errors but not their absence." — Edsger W. Dijkstra',
+              '"Software and cathedrals are much the same — first we build them, then we pray." — Sam Redwine',
+              '"Fix the cause, not the symptom." — Steve Maguire',
+              '"Quality means doing it right when no one is looking." — Henry Ford',
+              '"It always takes longer than you expect, even when you take into account Hofstadter\'s Law." — Douglas Hofstadter',
+              '"Make it work, make it right, make it fast." — Kent Beck',
+              '"The purpose of testing is not to find bugs — it is to provide information." — Cem Kaner',
+              '"Good software, like wine, takes time." — Joel Spolsky',
+              '"Every bug is a test case waiting to be written." — Anonymous',
+              '"Automation is not the goal. Confidence is." — Anonymous QA Lead',
+              '"An ounce of prevention is worth a pound of cure. Test early, test often." — Anonymous',
+              '"Shipping first-time code is like going into debt. A little is okay, but if unchecked, it becomes bankruptcy." — Ward Cunningham',
+              '"The best performance improvement is the transition from the nonworking state to the working state." — John Ousterhout',
+          ]
+
+          day = datetime.datetime.utcnow().timetuple().tm_yday
+          quote = QUOTES[day % len(QUOTES)]
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          updated = re.sub(
+              r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->',
+              f'<!-- QUOTE_START -->{quote}<!-- QUOTE_END -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated)
+
+          print(f"Quote updated: {quote}")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.md || (
+            git add README.md &&
+            git commit -m "chore: rotate daily QA quote [skip ci]" &&
+            git push
+          )

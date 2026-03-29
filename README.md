@@ -1,6 +1,19 @@
+<!-- ============================================================
+     BUG-001 [CRITICAL]: Hero section lacks caffeine dependency
+     Steps to reproduce: open profile before 9am
+     Expected: coffee icon in header
+     Actual: no coffee icon
+     Severity: P0 — engineer cannot function
+     Assigned: moqaddasQA  Status: Won't Fix (by design)
+     ============================================================ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0d1f3c,100:1e3a8a&height=260&section=header&text=Moqaddas%20Rahim&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%E2%80%A2%20SDET%20%E2%80%A2%20Compliance%20Testing%20Specialist&descAlignY=56&descAlign=50&descColor=94a3b8&fontFamily=Fira%20Code" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/terminal-hero.svg" width="100%" alt="QA Engineer Terminal — live automation commands"/>
 
 <br/>
 
@@ -12,13 +25,17 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=moqaddasQA&style=for-the-badge&color=1e293b&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=moqaddasQA&style=for-the-badge&color=1e293b&label=PROFILE+VIEWS) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FmoqaddasQA&label=UNIQUE%20VISITORS&countColor=%230f172a&style=for-the-badge&labelColor=%231e293b)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
 ## About Me
+
+<!-- QUOTE_START -->> *"Testing leads to failure, and failure leads to understanding."* — Burt Rutan<!-- QUOTE_END -->
+
+<br/>
 
 > *"Located at the crossroads of creativity and excellence — I build automation solutions that transform how products are tested and refined."*
 
@@ -41,6 +58,16 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 | 🕐 Execution Speed | 🛡️ Defects Prevented | ⚙️ CI/CD Uptime | 📈 Team Productivity | 💰 Annual Savings |
 |:---:|:---:|:---:|:---:|:---:|
 | **37.5% Faster** | **150+ Critical Bugs** | **99.9% Uptime** | **+20% Output** | **$15K+/year** |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
+
+## GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=moqaddasQA&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -329,9 +356,44 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
+## Skill Radar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/skill-radar.svg" width="550" alt="QA Engineering Skill Radar Chart"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
+
+## Currently Building
+
+<!-- BUG-002 [MEDIUM]: Progress bars lack actual momentum
+     Steps to reproduce: stare at HandsOff bar long enough
+     Expected: bar fills itself
+     Actual: requires developer to write code
+     Workaround: write code
+     Status: In Progress -->
+
+<div align="center">
+
+| Project | Progress | Status |
+|:---|:---:|:---:|
+| **HandsOff Privacy Guardian** — Android app · mic/camera blocking · VPN DNS | ![35%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░░░░░░░░░░░-35%25-a855f7?style=flat-square&labelColor=1e293b) | ![Active](https://img.shields.io/badge/Active-Building-22c55e?style=flat-square&labelColor=1e293b) |
+| **Banking Regression Framework** — PCI DSS · 247 tests · Jenkins CI | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-f59e0b?style=flat-square&labelColor=1e293b) | ![Polishing](https://img.shields.io/badge/Polishing-Nearly%20Done-3b82f6?style=flat-square&labelColor=1e293b) |
+| **OpenMRS Healthcare Suite** — HIPAA · HL7 · Docker parallel grid | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-70%25-06b6d4?style=flat-square&labelColor=1e293b) | ![Active](https://img.shields.io/badge/Active-Building-22c55e?style=flat-square&labelColor=1e293b) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
+
 ## GitHub Analytics
 
 <div align="center">
+
+[![QA Smoke Tests](https://github.com/moqaddasQA/moqaddasQA/actions/workflows/run-tests.yml/badge.svg)](https://github.com/moqaddasQA/moqaddasQA/actions/workflows/run-tests.yml) &nbsp; [![Daily Quote](https://github.com/moqaddasQA/moqaddasQA/actions/workflows/daily-quote.yml/badge.svg)](https://github.com/moqaddasQA/moqaddasQA/actions/workflows/daily-quote.yml) &nbsp; [![Snake](https://github.com/moqaddasQA/moqaddasQA/actions/workflows/snake.yml/badge.svg)](https://github.com/moqaddasQA/moqaddasQA/actions/workflows/snake.yml)
+
+<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/moqaddasQA/moqaddasQA/main/dist/github-snake-dark.svg)
 
@@ -401,3 +463,14 @@ pie title Security Testing Focus
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,60:0d1f3c,100:0f172a&height=120&section=footer" width="100%" />
 
 </div>
+
+<!-- ============================================================
+     BUG-003 [LOW]: Footer wave direction is debatable
+     Reporter: moqaddasQA  Priority: Won't Fix
+     Note: "waving goodbye" is the intended behavior
+
+     TEST COVERAGE DISCLAIMER:
+     This README has been manually regression-tested across
+     Chrome, Firefox, and dark mode. Zero defects found.
+     (GitHub mobile view is a known flaky environment.)
+     ============================================================ -->

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="290" viewBox="0 0 820 290">
+  <defs>
+    <style>
+      .t  { font-family: 'Courier New', Courier, monospace; font-size: 13.5px; }
+      .pr { fill: #22c55e; }
+      .cm { fill: #e2e8f0; }
+      .bl { fill: #58b9ff; }
+      .mu { fill: #8b949e; }
+      .yw { fill: #f59e0b; }
+      .cu { fill: #e2e8f0; animation: blink 1s step-end infinite; }
+
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes show  { from{opacity:0} to{opacity:1} }
+
+      .L1  { opacity:0; animation: show .05s  0.5s  forwards; }
+      .L2  { opacity:0; animation: show .05s  1.8s  forwards; }
+      .L3  { opacity:0; animation: show .05s  3.2s  forwards; }
+      .L4  { opacity:0; animation: show .05s  4.5s  forwards; }
+      .L5  { opacity:0; animation: show .05s  5.1s  forwards; }
+      .L6  { opacity:0; animation: show .05s  5.7s  forwards; }
+      .L7  { opacity:0; animation: show .05s  7.2s  forwards; }
+      .L8  { opacity:0; animation: show .05s  8.5s  forwards; }
+      .L9  { opacity:0; animation: show .05s  9.8s  forwards; }
+      .L10 { opacity:0; animation: show .05s 11.0s  forwards; }
+      .L11 { opacity:0; animation: show .05s 11.8s  forwards; }
+    </style>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="820" height="290" rx="10" ry="10" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="820" height="34" rx="10" ry="10" fill="#161b22"/>
+  <rect y="22" width="820" height="12" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="18" cy="17" r="6" fill="#ff5f57"/>
+  <circle cx="36" cy="17" r="6" fill="#febc2e"/>
+  <circle cx="54" cy="17" r="6" fill="#28c840"/>
+
+  <!-- Window title -->
+  <text x="410" y="22" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#6e7681">bash — moqaddasQA@github: ~/automation-framework</text>
+
+  <!-- L1: command 1 -->
+  <g class="L1">
+    <text x="18" y="64" class="t pr">&#10095;</text>
+    <text x="34" y="64" class="t cm"> selenium-grid start --hub --config=grid.json</text>
+  </g>
+
+  <!-- L2: output 1 -->
+  <g class="L2">
+    <text x="18" y="83" class="t bl">  &#10003;  Grid started &#183; 4 nodes connected &#183; port 4444</text>
+  </g>
+
+  <!-- L3: command 2 -->
+  <g class="L3">
+    <text x="18" y="110" class="t pr">&#10095;</text>
+    <text x="34" y="110" class="t cm"> mvn test -Dsuite=regression -Denv=ci -Dparallel=true</text>
+  </g>
+
+  <!-- L4: output 2a -->
+  <g class="L4">
+    <text x="18" y="129" class="t mu">[INFO] Running BankingRegressionSuite...</text>
+  </g>
+
+  <!-- L5: output 2b -->
+  <g class="L5">
+    <text x="18" y="147" class="t pr">  &#10003;  testLogin &#183; testTransfer &#183; testCompliance &#183; testAudit</text>
+  </g>
+
+  <!-- L6: output 2c -->
+  <g class="L6">
+    <text x="18" y="165" class="t bl">[INFO] Tests run: 247 &#183; Failures: 0 &#183; Coverage: 94.2%</text>
+  </g>
+
+  <!-- L7: command 3 -->
+  <g class="L7">
+    <text x="18" y="192" class="t pr">&#10095;</text>
+    <text x="34" y="192" class="t cm"> cucumber --tags @hipaa --format=allure --env=prod</text>
+  </g>
+
+  <!-- L8: output 3 -->
+  <g class="L8">
+    <text x="18" y="211" class="t pr">  &#10003;  48 HIPAA scenarios passed &#183; compliance: 100%</text>
+  </g>
+
+  <!-- L9: command 4 -->
+  <g class="L9">
+    <text x="18" y="238" class="t pr">&#10095;</text>
+    <text x="34" y="238" class="t cm"> allure serve target/allure-results --port 9090</text>
+  </g>
+
+  <!-- L10: output 4 -->
+  <g class="L10">
+    <text x="18" y="257" class="t yw">  &#128202;  Report ready &#183; 247 tests &#183; 0 regressions &#183; 3.2s runtime</text>
+  </g>
+
+  <!-- L11: final prompt + blinking cursor -->
+  <g class="L11">
+    <text x="18" y="278" class="t pr">&#10095;</text>
+    <rect x="34" y="266" width="9" height="14" class="cu"/>
+  </g>
+</svg>
