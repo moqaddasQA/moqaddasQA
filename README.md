@@ -67,7 +67,9 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=moqaddasQA&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moqaddasQA&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=f59e0b&text_color=e2e8f0&icon_color=22C55E&rank_icon=github" alt="GitHub Stats" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moqaddasQA&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=f59e0b&text_color=e2e8f0&langs_count=8" alt="Top Languages" width="48%" />
 
 </div>
 
