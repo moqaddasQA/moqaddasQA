@@ -217,82 +217,79 @@ Universal Android privacy app · Blocks DNS trackers · Monitors mic/camera · N
 ## Automation Framework Architecture
 
 ```mermaid
-graph TD
-  style A fill:#1e40af,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style B fill:#2563eb,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style C fill:#15803d,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style D fill:#15803d,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style E fill:#15803d,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style F fill:#15803d,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style G fill:#7c3aed,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style H fill:#b91c1c,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style I fill:#c2410c,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style J fill:#c2410c,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style K fill:#b45309,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style L fill:#b45309,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style M fill:#b45309,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style N fill:#b45309,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style O fill:#b45309,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style P fill:#1e293b,stroke:#58b9ff,stroke-width:2px,color:#94a3b8
-  style Q fill:#166534,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style R fill:#166534,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style S fill:#b91c1c,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style T fill:#b91c1c,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style U fill:#2563eb,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style V fill:#2563eb,stroke:#334155,stroke-width:2px,color:#f8fafc
-  style W fill:#2563eb,stroke:#334155,stroke-width:2px,color:#f8fafc
+flowchart TD
+    classDef entry  fill:#0f172a,stroke:#58b9ff,stroke-width:2px,color:#58b9ff
+    classDef cicd   fill:#1e40af,stroke:#93c5fd,stroke-width:2px,color:#f8fafc
+    classDef tools  fill:#b45309,stroke:#fcd34d,stroke-width:2px,color:#f8fafc
+    classDef test   fill:#15803d,stroke:#86efac,stroke-width:2px,color:#f8fafc
+    classDef bdd    fill:#b91c1c,stroke:#fca5a5,stroke-width:2px,color:#f8fafc
+    classDef data   fill:#c2410c,stroke:#fb923c,stroke-width:2px,color:#f8fafc
+    classDef report fill:#7c3aed,stroke:#c4b5fd,stroke-width:2px,color:#f8fafc
+    classDef comply fill:#166534,stroke:#4ade80,stroke-width:2px,color:#f8fafc
 
-  subgraph CI/CD Pipeline
-    A[Jenkins]
-    B[Build & Trigger]
-  end
+    DEV([Developer Push]):::entry
 
-  subgraph Test Execution
-    B --> C[Selenium Grid]
-    B --> D[Postman API Tests]
-    B --> E[JUnit Tests]
-    B --> F[TestNG Tests]
-  end
+    subgraph CICD [CI/CD Pipeline]
+        JK[Jenkins]:::cicd
+        MV[Maven Build]:::cicd
+        JK --> MV
+    end
 
-  subgraph Reporting
-    G[Allure Reports]
-    G --> H[Compliance Dashboard]
-  end
+    subgraph STACK [Tech Foundation]
+        direction LR
+        JV[Java]:::tools
+        GT[Git / GitHub]:::tools
+        JI[JIRA]:::tools
+    end
 
-  subgraph Database
-    C --> I[MySQL]
-    C --> J[Oracle]
-  end
+    subgraph EXEC [Parallel Test Execution]
+        direction LR
+        SG[Selenium Grid]:::test
+        RA[REST Assured]:::test
+        AP[Appium]:::test
+    end
 
-  subgraph Tools & Frameworks
-    K[Java]
-    L[Git]
-    M[GitHub]
-    N[Maven]
-    O[JIRA]
-    K --> C
-    L --> B
-    M --> B
-    N --> B
-    O --> P[Issue Tracking]
-  end
+    subgraph BDD [BDD Framework]
+        direction LR
+        CK[Cucumber]:::bdd
+        GK[Gherkin Scripts]:::bdd
+        CK --> GK
+    end
 
-  subgraph Compliance & Standards
-    H --> Q[HIPAA Validation]
-    H --> R[PCI DSS Validation]
-  end
+    subgraph TYPES [Test Coverage]
+        direction LR
+        WB[Web & UI Tests]:::test
+        AV[API Validation]:::test
+        MB[Mobile Tests]:::test
+    end
 
-  subgraph Test Scenarios
-    S[Cucumber]
-    T[Gherkin Scripts]
-    C --> S
-  end
+    subgraph DB [Data Layer]
+        direction LR
+        MY[(MySQL)]:::data
+        OR[(Oracle)]:::data
+    end
 
-  subgraph Test Types
-    C --> U[Web App Testing]
-    D --> V[API Validation]
-    F --> W[Mobile App Testing]
-  end
+    subgraph RPT [Reporting Layer]
+        AL[Allure Reports]:::report
+        CD[Compliance Dashboard]:::report
+        AL --> CD
+    end
+
+    subgraph CMPL [Compliance Standards]
+        direction LR
+        HI[HIPAA Validation]:::comply
+        PC[PCI DSS Validation]:::comply
+    end
+
+    DEV --> JK
+    STACK --> JK
+    MV --> SG & RA & AP
+    SG --> CK
+    SG --> WB & MY
+    RA --> AV
+    AP --> MB
+    WB & AV & MB --> AL
+    CD --> HI & PC
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
