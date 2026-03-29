@@ -67,7 +67,7 @@ I'm a **QA Automation Engineer & SDET** with enterprise experience at **CVS Heal
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=moqaddasQA&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=moqaddasQA&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
