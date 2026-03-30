@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->> *"Testing leads to failure, and failure leads to understanding."* — Burt Rutan<!-- QUOTE_END -->
+<!-- QUOTE_START -->"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten." — Karl Wiegers<!-- QUOTE_END -->
 
 <br/>
 
