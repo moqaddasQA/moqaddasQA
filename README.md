@@ -21,6 +21,10 @@
 
 <br/>
 
+![Available](https://img.shields.io/badge/Available%20for%20Hire-Immediately-22c55e?style=for-the-badge&labelColor=166534) &nbsp; ![Location](https://img.shields.io/badge/Los%20Angeles%2C%20CA-Remote%20%7C%20Hybrid%20%7C%20On--Site-3b82f6?style=for-the-badge&labelColor=1e3a8a) &nbsp; ![Role](https://img.shields.io/badge/Target%20Role-QA%20Automation%20%7C%20SDET-f59e0b?style=for-the-badge&labelColor=78350f)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moqaddas-qa-automation) [![Email](https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rahim.ms001@gmail.com) [![Portfolio](https://img.shields.io/badge/GitHub%20Portfolio-1e293b?style=for-the-badge&logo=github&logoColor=58B9FF)](https://github.com/Moqaddas-QA) [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-166534?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/moqaddas-qa-automation)
 
 <br/>
@@ -354,17 +358,16 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:22c55e&height=3" width="100%"/>
 
-## Technical Roadmap
+## What I'm Learning Next
 
 <div align="center">
 
-| Skill | Level |
-|:---|:---:|
-| **Web & Mobile Automation** *(Selenium · Appium)* | ![Expert](https://img.shields.io/badge/Expert-100%25-3b82f6?style=flat-square&labelColor=1e293b) |
-| **AI-Powered Test Generation** | ![Advanced](https://img.shields.io/badge/Advanced-90%25-22c55e?style=flat-square&labelColor=1e293b) |
-| **CI/CD Pipelines** *(Jenkins · GitHub Actions)* | ![Proficient](https://img.shields.io/badge/Proficient-70%25-f59e0b?style=flat-square&labelColor=1e293b) |
-| **Containerization** *(Docker)* | ![Intermediate](https://img.shields.io/badge/Intermediate-60%25-f97316?style=flat-square&labelColor=1e293b) |
-| **BDD Methodology** *(Cucumber · TestNG)* | ![Expert](https://img.shields.io/badge/Expert-95%25-3b82f6?style=flat-square&labelColor=1e293b) |
+| Skill | Why |
+|:---|:---|
+| **Playwright** | Modern cross-browser automation — increasingly replacing Selenium in new stacks |
+| **k6 Performance Testing** | Load & stress testing to round out API + UI expertise |
+| **AWS DevOps** | Cloud-native CI/CD and scalable test infrastructure |
+| **Kotlin / Android Testing** | Espresso + UiAutomator2 for mobile-first QA roles |
 
 </div>
 
@@ -393,7 +396,7 @@ flowchart TD
 
 | Project | Progress | Status |
 |:---|:---:|:---:|
-| **HandsOff Privacy Guardian** — Android app · mic/camera blocking · VPN DNS | ![35%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░░░░░░░░░░░-35%25-a855f7?style=flat-square&labelColor=1e293b) | ![Active](https://img.shields.io/badge/Active-Building-22c55e?style=flat-square&labelColor=1e293b) |
+| **HandsOff Privacy Guardian** — Android app · mic/camera blocking · VPN DNS | ![35%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░░░░░░░░░░░-65%25-a855f7?style=flat-square&labelColor=1e293b) | ![Active](https://img.shields.io/badge/Active-Building-22c55e?style=flat-square&labelColor=1e293b) |
 | **Banking Regression Framework** — PCI DSS · 247 tests · Jenkins CI | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-f59e0b?style=flat-square&labelColor=1e293b) | ![Polishing](https://img.shields.io/badge/Polishing-Nearly%20Done-3b82f6?style=flat-square&labelColor=1e293b) |
 | **OpenMRS Healthcare Suite** — HIPAA · HL7 · Docker parallel grid | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-70%25-06b6d4?style=flat-square&labelColor=1e293b) | ![Active](https://img.shields.io/badge/Active-Building-22c55e?style=flat-square&labelColor=1e293b) |
 
