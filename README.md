@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Testing can show the presence of errors but not their absence." — Edsger W. Dijkstra<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Software and cathedrals are much the same — first we build them, then we pray." — Sam Redwine<!-- QUOTE_END -->
 
 <br/>
 
