@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"The purpose of testing is not to find bugs — it is to provide information." — Cem Kaner<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Every bug is a test case waiting to be written." — Anonymous<!-- QUOTE_END -->
 
 <br/>
 
