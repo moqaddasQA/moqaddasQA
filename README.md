@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do." — Andrew Singer<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Testing can show the presence of errors but not their absence." — Edsger W. Dijkstra<!-- QUOTE_END -->
 
 <br/>
 
