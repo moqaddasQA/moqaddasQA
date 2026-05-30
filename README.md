@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Every bug is a test case waiting to be written." — Anonymous<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Automation is not the goal. Confidence is." — Anonymous QA Lead<!-- QUOTE_END -->
 
 <br/>
 
