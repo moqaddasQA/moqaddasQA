@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"If debugging is the process of removing bugs, then programming must be the process of putting them in." — Edsger W. Dijkstra<!-- QUOTE_END -->
+<!-- QUOTE_START -->"No amount of testing can prove a software right; a single test can prove a software wrong." — Amir Ghahrai<!-- QUOTE_END -->
 
 <br/>
 
