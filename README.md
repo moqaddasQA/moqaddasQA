@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"No amount of testing can prove a software right; a single test can prove a software wrong." — Amir Ghahrai<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Quality is not an act, it is a habit." — Aristotle<!-- QUOTE_END -->
 
 <br/>
 
