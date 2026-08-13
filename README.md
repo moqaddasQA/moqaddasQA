@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Quality is not an act, it is a habit." — Aristotle<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable." — James Bach<!-- QUOTE_END -->
 
 <br/>
 
