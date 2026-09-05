@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable." — James Bach<!-- QUOTE_END -->
+<!-- QUOTE_START -->"A good test is one that makes you think." — Michael Bolton<!-- QUOTE_END -->
 
 <br/>
 
