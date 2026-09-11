@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Fix the cause, not the symptom." — Steve Maguire<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Quality means doing it right when no one is looking." — Henry Ford<!-- QUOTE_END -->
 
 <br/>
 
