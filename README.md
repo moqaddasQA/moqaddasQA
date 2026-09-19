@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"An ounce of prevention is worth a pound of cure. Test early, test often." — Anonymous<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Shipping first-time code is like going into debt. A little is okay, but if unchecked, it becomes bankruptcy." — Ward Cunningham<!-- QUOTE_END -->
 
 <br/>
 
