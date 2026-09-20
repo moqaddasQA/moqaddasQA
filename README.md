@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Shipping first-time code is like going into debt. A little is okay, but if unchecked, it becomes bankruptcy." — Ward Cunningham<!-- QUOTE_END -->
+<!-- QUOTE_START -->"The best performance improvement is the transition from the nonworking state to the working state." — John Ousterhout<!-- QUOTE_END -->
 
 <br/>
 
