@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Beware of bugs in the above code; I have only proved it correct, not tried it." — Donald Knuth<!-- QUOTE_END -->
+<!-- QUOTE_START -->"The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do." — Andrew Singer<!-- QUOTE_END -->
 
 <br/>
 
