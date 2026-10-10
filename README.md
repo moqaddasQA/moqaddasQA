@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Automation is not the goal. Confidence is." — Anonymous QA Lead<!-- QUOTE_END -->
+<!-- QUOTE_START -->"An ounce of prevention is worth a pound of cure. Test early, test often." — Anonymous<!-- QUOTE_END -->
 
 <br/>
 
