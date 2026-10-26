@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Quality means doing it right when no one is looking." — Henry Ford<!-- QUOTE_END -->
+<!-- QUOTE_START -->"It always takes longer than you expect, even when you take into account Hofstadter's Law." — Douglas Hofstadter<!-- QUOTE_END -->
 
 <br/>
 
