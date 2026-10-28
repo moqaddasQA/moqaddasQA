@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Make it work, make it right, make it fast." — Kent Beck<!-- QUOTE_END -->
+<!-- QUOTE_START -->"The purpose of testing is not to find bugs — it is to provide information." — Cem Kaner<!-- QUOTE_END -->
 
 <br/>
 
