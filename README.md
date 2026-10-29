@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"The purpose of testing is not to find bugs — it is to provide information." — Cem Kaner<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Good software, like wine, takes time." — Joel Spolsky<!-- QUOTE_END -->
 
 <br/>
 
