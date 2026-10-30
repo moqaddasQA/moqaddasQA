@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Good software, like wine, takes time." — Joel Spolsky<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Every bug is a test case waiting to be written." — Anonymous<!-- QUOTE_END -->
 
 <br/>
 
