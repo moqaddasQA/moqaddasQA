@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"A good test is one that makes you think." — Michael Bolton<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Beware of bugs in the above code; I have only proved it correct, not tried it." — Donald Knuth<!-- QUOTE_END -->
 
 <br/>
 
