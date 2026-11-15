@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"Software and cathedrals are much the same — first we build them, then we pray." — Sam Redwine<!-- QUOTE_END -->
+<!-- QUOTE_START -->"Fix the cause, not the symptom." — Steve Maguire<!-- QUOTE_END -->
 
 <br/>
 
