@@ -37,7 +37,7 @@
 
 ## About Me
 
-<!-- QUOTE_START -->"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten." — Karl Wiegers<!-- QUOTE_END -->
+<!-- QUOTE_START -->"If debugging is the process of removing bugs, then programming must be the process of putting them in." — Edsger W. Dijkstra<!-- QUOTE_END -->
 
 <br/>
 
